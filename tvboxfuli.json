@@ -1,5 +1,5 @@
 {
-  "spider": "https://github.com/CUSCO888/TVBoxOS/raw/main/jar/custom_spider.jar",
+  "spider": "https://raw.githubusercontent.com/CUSCO888/TVBoxOS/main/jar/custom_spider.jar",
   "wallpaper": "http://bing.com/th?id=OHR.BoraBora_EN-US3642232439_1920x1080.jpg",
   "sites": [
     {
